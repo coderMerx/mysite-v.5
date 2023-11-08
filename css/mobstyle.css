@@ -1,0 +1,41 @@
+/*this section for phone */
+@media (max-width: 768px) {
+    .topname{
+        position: absolute;
+        width: 200px;
+        height: 50px;
+    }
+    .topname p{
+        font-weight: 500;
+        font-size: x-large;
+    }
+
+    .f1{
+    width: 30px;
+    height: 30px;
+    
+}
+.f1 img{
+    width: 30px;
+    height: 30px;
+}
+.f3{
+   position: absolute;
+   top: 50px;
+   width: 30px;
+   height: 30px;
+}
+.f3 img{
+    width: 30px;
+    height: 30px;
+}
+.f2 {
+    position: absolute;
+    background-color: antiquewhite;
+    left: 5px;
+    right: 200px;
+    top: 50px;
+    margin-left: 12px;
+
+}
+}
